@@ -9,7 +9,7 @@ you need to download, ChromeDriver. So, Check your Chrome verison
 ```bash
 $ google-chrome --version
 ```
-Download [ChromeDriver](https://chromedriver.chromium.org/downloads) and move to cloned floder
+Download [ChromeDriver](https://chromedriver.chromium.org/downloads) and move to cloned floder,
 finally run~
 ```bash
 $ python3 run.py
