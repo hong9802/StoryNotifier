@@ -15,5 +15,5 @@ finally run~
 $ python3 run.py
 ```
 ## Note ##
-This Project is based on [Reflection](http://chihaya.kr/snoty/)
+This Project is based on [Reflection](http://chihaya.kr/snoty/)  
 This Project used Python3
