@@ -3,7 +3,7 @@ firtst you need to install notify-send and chrome
 
 ## How to install ##
 ```bash
-$ git clone https://github.com/hong9802/Story-Notifier
+$ git clone https://github.com/hong9802/StoryNotifier
 ```
 you need to download, ChromeDriver. So, Check your Chrome verison
 ```bash
